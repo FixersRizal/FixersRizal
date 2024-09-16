@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizal</h1>
-<h3 align="center">Done ga bangggggg?? Doneeeeeeee</h3>
+<h3 align="center">Mohon Bimbingannya</h3>
 
 - 🔭 I'm currently an active intern at **Klik Kanan Group Indonesia**
 
@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [belum jadi bang:((]
 
-- 📫 How to reach me **mutiasheptichifamba@gmail.com**
+- 📫 How to reach me **m005rizal@gmail.com**
 
-- ⚡ Fun fact **? Nope, mending login**
+- ⚡ Fun fact **Mentok JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
