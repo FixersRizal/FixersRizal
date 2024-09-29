@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **m005rizal@gmail.com**
 
-- ⚡ Fun fact **Mentok JS**
+- ⚡ WML on JS 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
